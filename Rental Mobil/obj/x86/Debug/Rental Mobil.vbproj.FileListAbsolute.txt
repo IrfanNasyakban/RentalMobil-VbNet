@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\bin\Debug\Rental Mobil.exe
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\bin\Debug\Rental Mobil.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\bin\Debug\Rental Mobil.xml
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.Formutama.resources
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental Mobil.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental Mobil.exe
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental Mobil.xml
+c:\users\asus\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental Mobil.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.pesanmobil.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.loginadmin.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.Formadmin.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.tambahmobil.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.buatsewa.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.Formdenda.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\Rental Mobil\Rental Mobil\obj\x86\Debug\Rental_Mobil.daftarsewa.resources
